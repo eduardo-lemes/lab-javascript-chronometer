@@ -13,7 +13,7 @@ let milDec = document.getElementById('milDec');
 let milUni = document.getElementById('milUni');
 let splits = document.getElementById('splits');
 
-//printa os minutos e os segundos
+//tira print dos minutos e os segundos
 function printTime() {
   printMinutes();
   printSeconds();
